@@ -3,3 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 2018-08-31 15:47:03
+二〇一八年八月三十一日 15:51:28
+2018-08-31 15:51:44
